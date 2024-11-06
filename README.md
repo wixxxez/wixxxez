@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artem Hersymiuk</h1>
+<h1 align="center">Hi 👋, I'm Artem Herasymiuk</h1>
 <h3 align="center">Data Scientist and Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wixxxez&label=Profile%20views&color=0e75b6&style=flat" alt="wixxxez" /> </p>
