@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DCGAN AI Generator of Anime Faces](https://github.com/wixxxez/AnimeGAN)
 
-- 👨‍💻 All of my projects are available at [https://github.com/wixxxez?tab=repositories](https://github.com/wixxxez?tab=repositories)
+- 👨‍💻 Here you can obtain my CV <a id="raw-url" href="https://raw.githubusercontent.com/wixxxez/wixxxez/master/ARTEM%20HERASYMIUK.pdf">Download FILE</a>
 
 - 📫 How to reach me **vinewood02@gmail.com**
 
